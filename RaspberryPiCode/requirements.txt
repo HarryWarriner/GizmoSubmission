@@ -1,0 +1,7 @@
+Required Libraries:
+
+RPi.GPIO 
+time
+pygame
+subprocess
+trill_lib 
